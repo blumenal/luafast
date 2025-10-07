@@ -42,4 +42,4 @@ Este projeto é destinado exclusivamente à exploração e pesquisa de viabilida
 
 ## Comunidade e Suporte
 Junte-se à nossa comunidade para participar de discussões e obter suporte:  
-- [Telegram](https://t.me/ikunshare_qun)](https://t.me/luafaststeamgames)
+- https://t.me/luafaststeamgames
