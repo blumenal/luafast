@@ -1,58 +1,58 @@
 ## Onekey
-Onekey Steam Depot Manifest Downloader
+Baixador de Manifestos do Depósito Steam Onekey
 
-## 使用方法
-去Releases处下载最新的发布，并且安装好SteamTools或者GreenLuma  
-然后打开Onekey输入App ID即可使用
+## Como Usar
+Acesse a seção Releases para baixar a versão mais recente e instale o SteamTools ou GreenLuma.  
+Em seguida, abra o Onekey e insira o App ID para começar a usar.
 
-## 开发
-本程序使用Python编程语言开发   
-要求环境:    
-1.Python 3.10及以上   
-2.Windows 10及以上   
-3.使用Git进行版本管理   
+## Desenvolvimento
+Este programa foi desenvolvido na linguagem de programação Python.  
+Requisitos do ambiente:  
+1. Python 3.10 ou superior  
+2. Windows 10 ou superior  
+3. Uso do Git para gerenciamento de versões  
 
-1.克隆项目到本地 
+1. Clone o projeto para sua máquina local:
 
 ```
 git clone https://github.com/ikunshare/Onekey
 ```
 
-2.安装依赖
+2. Instale as dependências:
 
 ```
 pip install -r requirements.txt
 ```
 
-## 项目协议
- 本项目基于 GPL-3.0 许可证发行，以下协议是对于 GPL-3.0 原协议的补充，如有冲突，以以下协议为准。
+## Licença do Projeto
+Este projeto é distribuído sob a licença GPL-3.0. As cláusulas abaixo são um complemento à licença GPL-3.0 original, e, em caso de conflito, prevalecem as cláusulas a seguir.
 
- 词语约定: “使用者”指签署本协议的使用者;“版权数据”指包括但不限于图像、音频、名字等在内的他人拥有所属版权的数据。
+Definições: “Usuário” refere-se ao assinante deste acordo; “Dados de Copyright” referem-se a dados, incluindo, mas não se limitando a imagens, áudios, nomes, etc., cujos direitos autorais pertencem a terceiros.
 
- 本项目的数据来源原理是从Steam官方的CDN服务器中拉取游戏清单数据，经过对数据简单地筛选与合并后进行展示，因此本项目不对数据的准确性负责。
- 使用本项目的过程中可能会产生版权数据，对于这些版权数据，本项目不拥有它们的所有权，为了避免造成侵权，使用者务必在24 小时内清除使用本项目的过程中所产生的版权数据。
- 由于使用本项目产生的包括由于本协议或由于使用或无法使用本项目而引起的任何性质的任何直接、间接、特殊、偶然或结果性损害（包括但不限于因商誉损失、停工、计算机故障或故障引起的损害赔偿，或任何及所有其他商业损害或损失）由使用者负责。
- 本项目完全免费，且开源发布于 GitHub 面向全世界人用作对技术的学习交流，本项目不对项目内的技术可能存在违反当地法律法规的行为作保证，禁止在违反当地法律法规的情况下使用本项目，对于使用者在明知或不知当地法律法规不允许的情况下使用本项目所造成的任何违法违规行为由使用者承担，本项目不承担由此造成的任何直接、间接、特殊、偶然或结果性责任。
- 而且，本项目已禁止使用于商业用途，以及不得进行未经允许的二次修改，否则必须同时发布源代码。
- 若你使用了本项目，将代表你接受以上协议。
+O princípio de obtenção de dados deste projeto consiste em extrair dados de manifestos de jogos dos servidores CDN oficiais do Steam, exibindo-os após uma simples filtragem e consolidação. Portanto, este projeto não se responsabiliza pela precisão dos dados.  
+Durante o uso deste projeto, podem ser gerados dados de copyright. Este projeto não possui direitos sobre esses dados. Para evitar infrações, o usuário deve garantir a exclusão de todos os dados de copyright gerados pelo uso do projeto dentro de 24 horas.  
+Quaisquer danos diretos, indiretos, especiais, incidentais ou consequenciais (incluindo, mas não se limitando a perdas de reputação, paralisação de trabalho, falhas ou mau funcionamento de computadores, ou quaisquer outras perdas ou danos comerciais) decorrentes do uso ou da incapacidade de uso deste projeto, ou deste acordo, são de responsabilidade do usuário.  
+Este projeto é totalmente gratuito e de código aberto, publicado no GitHub para uso global com o propósito de aprendizado e troca técnica. O projeto não garante que as tecnologias utilizadas estejam em conformidade com as leis locais, sendo proibido seu uso em situações que violem a legislação local. Qualquer uso do projeto, seja com ou sem conhecimento de que viola as leis locais, é de responsabilidade exclusiva do usuário, e o projeto não assume qualquer responsabilidade direta, indireta, especial, incidental ou consequencial decorrente disso.  
+Além disso, este projeto é estritamente proibido para uso comercial e não permite modificações secundárias sem autorização, sendo obrigatório publicar o código-fonte em caso de modificações.  
+Ao usar este projeto, você aceita os termos acima.
 
- Steam正版平台不易，请尊重版权，支持正版。  
- 本项目仅用于对技术可行性的探索及研究，不接受任何商业（包括但不限于广告等）合作。  
+A plataforma Steam original não é fácil de manter, por favor, respeite os direitos autorais e apoie os produtos originais.  
+Este projeto é destinado exclusivamente à exploração e pesquisa de viabilidade técnica e não aceita qualquer tipo de colaboração comercial (incluindo, mas não se limitando a anúncios).
 
-## Star 趋势图
+## Gráfico de Tendência de Estrelas
 
- [![Stargazers over time](https://starchart.cc/ikunshare/Onekey.svg)](https://starchart.cc/ikunshare/Onekey)
+[![Stargazers over time](https://starchart.cc/ikunshare/Onekey.svg)](https://starchart.cc/ikunshare/Onekey)
 
-## 贡献者
+## Contribuidores
 
- <a href="https://github.com/ikunshare/Onekey/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=ikunshare/Onekey" />
- </a>
+<a href="https://github.com/ikunshare/Onekey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ikunshare/Onekey" />
+</a>
 
-## 常见问题解答（FAQ）
-查看 [FAQ](https://ikunshare.com/d/49) 获取常见问题的解答。
+## Perguntas Frequentes (FAQ)
+Consulte o [FAQ](https://ikunshare.com/d/49) para respostas às perguntas mais comuns.
 
-## 社区和支持
-加入我们的社区，参与讨论和支持: 
-- [GitHub Discussions](https://github.com/ikunshare/Onekey/discussions)
+## Comunidade e Suporte
+Junte-se à nossa comunidade para participar de discussões e obter suporte:  
+- [GitHub Discussions](https://github.com/ikunshare/Onekey/discussions)  
 - [Telegram](https://t.me/ikunshare_qun)
