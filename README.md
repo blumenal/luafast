@@ -1,10 +1,13 @@
-## Onekey
+## Luafast
 Dolwnloader de Steam Depot Manifest
 
 ## Como Usar
 Acesse a seção Releases para baixar a versão já compilada ou compile ou simplismente execute o main.py.  
 Em seguida, abra o LuaFaast e insira o App ID ou o nome do game para inicar a pesquisa.
 Após a aquisição do game selecionado para que ele apareça em sua biblioteca steam, reinicie a steam pelo próprio luafast.
+
+## Observação
+O Luafast não necessita do Steam Tools ou greenluma.
 
 ## Desenvolvimento
 Este programa foi desenvolvido na linguagem de programação Python.  
