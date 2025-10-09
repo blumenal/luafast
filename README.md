@@ -27,6 +27,7 @@ git clone https://github.com/blumenal/luafast
 ```
 pip install -r requirements.txt
 ```
+<img width="1120" height="807" alt="image" src="https://github.com/user-attachments/assets/57b66b0c-f70a-4889-862b-83e6843164b4" />
 
 ## Licença do Projeto
 Este projeto é distribuído sob a licença GPL-3.0. As cláusulas abaixo são um complemento à licença GPL-3.0 original, e, em caso de conflito, prevalecem as cláusulas a seguir.
