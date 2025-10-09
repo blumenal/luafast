@@ -1,0 +1,10 @@
+aiohttp>=3.8.0
+aiofiles>=23.0.0
+httpx>=0.24.0
+vdf>=3.4
+logzero>=1.7.0
+ujson>=5.7.0
+colorama>=0.4.6
+requests>=2.31.0
+pywin32>=306
+beautifulsoup4>=4.12.0
