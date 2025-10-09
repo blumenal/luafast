@@ -29,6 +29,14 @@ pip install -r requirements.txt
 ```
 <img width="1120" height="807" alt="image" src="https://github.com/user-attachments/assets/57b66b0c-f70a-4889-862b-83e6843164b4" />
 
+<img width="1224" height="820" alt="image" src="https://github.com/user-attachments/assets/33aa6768-a2a6-46a4-92e1-be3f1476d007" />
+
+<img width="1186" height="864" alt="image" src="https://github.com/user-attachments/assets/3fa80608-5ee6-4974-baeb-5f5a95b3f8a9" />
+
+
+
+
+
 ## Licença do Projeto
 Este projeto é distribuído sob a licença GPL-3.0. As cláusulas abaixo são um complemento à licença GPL-3.0 original, e, em caso de conflito, prevalecem as cláusulas a seguir.
 
