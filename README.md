@@ -32,7 +32,6 @@ pip install -r requirements.txt
    Caso deseje compilar seu proprio executavel instale o pyintaler e use esse comando
    
   pyinstaller --onefile --icon=icone.ico --add-data "icone.ico;." --name "LuaFast_0.0.1" main.py
-```
 
 <img width="1120" height="807" alt="image" src="https://github.com/user-attachments/assets/57b66b0c-f70a-4889-862b-83e6843164b4" />
 
